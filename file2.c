@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-  printf("bye!\n");
+  printf("New File!\n");
   return 0;
 }
