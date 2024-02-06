@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    puts("Hi");
+    puts("Hooooooi");
     return 0;
 }
 
